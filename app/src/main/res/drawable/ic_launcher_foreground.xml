@@ -1,0 +1,33 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Outer Aura Glow Circle -->
+    <path
+        android:pathData="M54,54 m-30,0 a30,30 0 1,1 60,0 a30,30 0 1,1 -60,0"
+        android:strokeWidth="2.5"
+        android:strokeColor="#33FF2D55" />
+        
+    <!-- Main Apple-Inspired Double Music Note -->
+    <path
+        android:pathData="M44,64 A6,6 0 1,1 38,58 A6,6 0 0,1 44,64"
+        android:fillColor="#FF2D55" />
+    <path
+        android:pathData="M64,58 A6,6 0 1,1 58,52 A6,6 0 0,1 64,58"
+        android:fillColor="#AF52DE" />
+    
+    <path
+        android:pathData="M44,64 V38 L64,32 V58"
+        android:strokeWidth="4.5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:strokeColor="#FF2D55" />
+
+    <path
+        android:pathData="M44,44 L64,38"
+        android:strokeWidth="4.5"
+        android:strokeLineCap="round"
+        android:strokeColor="#AF52DE" />
+</vector>

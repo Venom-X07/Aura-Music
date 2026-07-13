@@ -1,0 +1,6 @@
+{
+  "name": "Aura Music",
+  "description": "Apple Music-inspired premium offline player for your local audio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
